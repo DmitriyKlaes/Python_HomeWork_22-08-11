@@ -1,0 +1,7 @@
+.idea
+*.png
+*.jpg
+*.jpeg
+*.txt
+*.log
+__pycache__
